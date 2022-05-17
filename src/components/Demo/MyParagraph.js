@@ -1,7 +1,7 @@
 import React from "react";
 
 const MyParagraph = (props) => {
-	console.log("DEMO OUTPUT RUNNING");
+	console.log("MY PARAGRAPH RUNNING");
 	return <p>{props.children}</p>;
 };
 
